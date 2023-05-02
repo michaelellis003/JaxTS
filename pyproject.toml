@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "jaxts"
-version = "0.0.1"
+version = "0.0.2a0"
 description = "A Jax based python package for time series"
 authors = ["Michael Ellis <michael@mlellis.com>"]
 license = "MIT"
