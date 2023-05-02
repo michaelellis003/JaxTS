@@ -6,8 +6,8 @@ class DGLM(StateSpaceModel):
 
     def predict(self, *args, **kwargs):
         # Implement prediction method
-        pass
+        raise NotImplementedError()
 
     def fit(self, *args, **kwargs):
         # Implement fit method
-        pass
+        raise NotImplementedError()

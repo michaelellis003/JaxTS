@@ -10,6 +10,8 @@ keywords = ["Time Series", "State Space Models", "Dynamic Linear Models"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+jax = "^0.4.8"
+jaxlib = "^0.4.7"
 
 
 [build-system]
